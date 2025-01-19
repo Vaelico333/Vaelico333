@@ -21,7 +21,8 @@ And so, for a year, due to some improvement in my production technician career, 
 
 ## My goal & purpose 🔭
 
-I aim to become a competent data analyst, data scientist and machine learning specialist, helping companies automate processes, improve their efficiency, collect relevant data and extract insight from it.
+I aim to become a competent data analyst, data scientist and machine learning specialist, helping companies automate processes, improve their efficiency, collect relevant data and extract insight from it.  
+You can see my portfolio at [Zoreda Data & Tasks](https://vaelico333.github.io/)
 
 <!--
 **Vaelico333/Vaelico333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
